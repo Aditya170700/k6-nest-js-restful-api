@@ -1,0 +1,26 @@
+{
+  "name": "k6-nest-js-restful-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditya170700/k6-nest-js-restful-api.git"
+  },
+  "author": "Aditya Ricki Julianto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aditya170700/k6-nest-js-restful-api/issues"
+  },
+  "homepage": "https://github.com/Aditya170700/k6-nest-js-restful-api#readme",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "k6": "^0.0.0"
+  },
+  "devDependencies": {
+    "@types/k6": "^0.51.1"
+  }
+}
